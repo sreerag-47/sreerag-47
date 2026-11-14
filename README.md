@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/adventure-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/adventure-light.png">
-  <img src="assets/adventure-dark.png" alt="A backpack traveler looking across a mountain valley, with a winding trail ahead." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="adventure-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="adventure-light.png">
+  <img src="adventure-dark.png" alt="A backpack traveler looking across a mountain valley, with a winding trail ahead." width="100%">
 </picture>
 
 # Hey, I'm Sreerag 👋
