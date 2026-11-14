@@ -1,63 +1,57 @@
-<p align="center">
-  <img src="header.svg" width="100%" alt="Sreerag C Madhu. Data science, AI applications and backend development." />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/adventure-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/adventure-light.png">
+  <img src="assets/adventure-dark.png" alt="A backpack traveler looking across a mountain valley, with a winding trail ahead." width="100%">
+</picture>
 
-<p align="center">
-  <b>B.Tech Data Science student at MACE</b><br />
-  Exploring data, building useful applications, and learning through projects.
-</p>
+# Hey, I'm Sreerag 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sreergcmadhu">LinkedIn</a> &nbsp; · &nbsp;
-  <a href="https://github.com/sreerag-47?tab=repositories">Explore my repositories</a>
-</p>
+**B.Tech Data Science student at MACE.**
 
-## Selected projects
+I build web apps, AI-assisted tools and backend systems. My projects range from voice-based resume building to fraud-detection APIs, with room for the occasional [FLAMES calculator](https://github.com/sreerag-47/FLAMES).
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📍 Civic Pulse</h3>
-      <p>A hackathon demo that groups citizen grievances by category and location, with voice input and an interactive map.</p>
-      <p><b>Python · FastAPI · Tailwind CSS</b></p>
-      <a href="https://github.com/sreerag-47/Codexhackathon">Explore the project →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ BankGuard</h3>
-      <p>A rule-based fraud-detection backend with transaction risk scoring, JWT authentication and explainable audit trails.</p>
-      <p><b>Python · FastAPI · PostgreSQL</b></p>
-      <a href="https://github.com/sreerag-47/fraud-detection">Explore the project →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎙️ JobSathi</h3>
-      <p>A multilingual, voice-driven resume builder with translation, PDF generation and job-search integrations.</p>
-      <p><b>React · Python · FastAPI</b></p>
-      <a href="https://github.com/sreerag-47/JOB_SATHI">Explore the project →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Expense Tracker</h3>
-      <p>A team project for tracking income and expenses, visualizing spending and exploring AI-assisted insights.</p>
-      <p><b>JavaScript · Express · MongoDB</b></p>
-      <a href="https://github.com/sreerag-47/expense-tracker">Explore the project →</a>
-    </td>
-  </tr>
-</table>
+Still learning. Usually by building something.
 
-## Technologies in these projects
+[Projects](#projects) · [Tools](#tools) · [A small detour](#a-small-detour) · [Connect](#connect)
 
-| Area | Tools |
-| --- | --- |
-| Languages | Python, JavaScript, SQL |
-| Backend | FastAPI, Node.js, Express, SQLAlchemy |
-| Frontend | React, HTML, CSS, Tailwind CSS |
-| Data & storage | PostgreSQL, MongoDB, Chart.js |
-| Development | Git, GitHub, Docker |
+## Projects
 
-## More to explore
+### [Civic Pulse](https://github.com/sreerag-47/Codexhackathon)
+A hackathon demo that groups grievances by category and location. It combines voice input, an interactive map and generated dispatch memos to help make sense of incoming reports.
 
-- [FLAMES](https://github.com/sreerag-47/FLAMES): a web calculator with zodiac-sign matching.
-- [Trend Surfing](https://github.com/sreerag-47/trend-surfing-flight-delay): a fork of [soorajjmanuu/trend-surfing-flight-delay](https://github.com/soorajjmanuu/trend-surfing-flight-delay), exploring unusual trends in multidimensional datasets.
+*Python · FastAPI · Tailwind CSS*
 
-<p align="center"><b>Let's build something cool.</b></p>
+### [BankGuard](https://github.com/sreerag-47/fraud-detection)
+A rule-based fraud-detection backend with transaction risk scoring, JWT authentication and explainable audit trails. Each flag can be traced back to the rule behind it.
+
+*Python · FastAPI · PostgreSQL · SQLAlchemy*
+
+### [JobSathi](https://github.com/sreerag-47/JOB_SATHI)
+A multilingual, voice-driven resume builder with English translation, PDF generation and job-search integrations.
+
+*React · Python · FastAPI · Tailwind CSS*
+
+### [Expense Tracker](https://github.com/sreerag-47/expense-tracker)
+A team project for tracking income and expenses, managing budgets and visualizing spending. It also explores AI-assisted insights alongside the core tracking tools.
+
+*JavaScript · Node.js · Express · MongoDB · Chart.js*
+
+## Tools
+
+Technologies used across these projects:
+
+- **Languages:** Python, JavaScript, SQL
+- **Backend:** FastAPI, Node.js, Express, SQLAlchemy
+- **Frontend:** React, HTML, CSS, Tailwind CSS
+- **Data & visualization:** PostgreSQL, MongoDB, Chart.js
+
+## A small detour
+
+- **[FLAMES](https://github.com/sreerag-47/FLAMES):** a playful web calculator with zodiac-sign matching. Not every project needs to be serious.
+- **[Trend Surfing](https://github.com/sreerag-47/trend-surfing-flight-delay):** a fork of [soorajjmanuu's project](https://github.com/soorajjmanuu/trend-surfing-flight-delay), exploring unusual trends in multidimensional data.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/sreergcmadhu) · [All repositories](https://github.com/sreerag-47?tab=repositories)
+
+Let's build something cool.
